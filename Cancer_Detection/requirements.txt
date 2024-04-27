@@ -1,0 +1,8 @@
+#random
+numpy
+matplotlib
+os
+glob
+shutil
+#for Models
+keras
